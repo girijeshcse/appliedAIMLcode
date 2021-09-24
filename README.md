@@ -1,0 +1,2 @@
+# appliedAIcode
+all the code 
